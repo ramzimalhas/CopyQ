@@ -2,7 +2,7 @@ repo_name: ramzimalhas/CopyQ
 report_id: d5107c6ec2ddcdcaf09c84d230146305
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-23T06:58:38+00:00'
+timestamp: '2024-02-29T19:32:42+00:00'
 requested_by: hluk
 provider: github
 branch: master
@@ -84,7 +84,7 @@ tools:
   detection_source_url: https://github.com/ramzimalhas/CopyQ
   detection_source: Repo Metadata
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
